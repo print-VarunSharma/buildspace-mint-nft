@@ -1,0 +1,14 @@
+{
+  "name": "buildspace-mint-nft",
+  "version": "1.0.0",
+  "description": "Build Space NFT mini-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun D. Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.11.2"
+  }
+}
